@@ -69,9 +69,9 @@ The table below catalogs enterprise cloud backup management, licensing, and part
 
 ## 💻 Open-Source GitHub Projects
 
-For MSPs, DevOps teams, and platform engineers building vendor-neutral license management consoles or internal usage-based billing architectures, these open-source repositories provide foundational frameworks. Sorted by GitHub star count in descending order:
+For MSPs, DevOps teams, and platform engineers building vendor-neutral license management consoles or internal usage-based billing architectures, these open-source repositories provide foundational frameworks. Sorted by GitHub Stars_Count in descending order:
 
-| Project 🛠️ | Star Badge ⭐ | Primary Focus 🎯 | Description 📖 |
+| Project 🛠️ | Stars_Badge ⭐ | Primary Focus 🎯 | Description 📖 |
 |---|---|---|---|
 | **[Infracost](https://github.com/infracost/infracost)** | [![Stars](https://img.shields.io/github/stars/infracost/infracost?style=social&color=white)](https://github.com/infracost/infracost/stargazers) | Cloud Cost & Usage Estimation | Cloud cost estimation for Terraform and infrastructure code. Frequently integrated into cloud backup pipelines to predict and prevent storage license overages. |
 | **[Lago](https://github.com/getlago/lago)** | [![Stars](https://img.shields.io/github/stars/getlago/lago?style=social&color=white)](https://github.com/getlago/lago/stargazers) | Metering & Usage-Based Billing | Open-source usage metering and subscription billing engine. Provides real-time event aggregation, multi-tier pricing, prepaid credit wallets, and automated customer invoicing. |
@@ -113,7 +113,7 @@ Contributions are welcome from MSP engineers, cloud architects, and developers!
 1. 🍴 Fork this repository.
 2. 📝 Add your tool to either the [SaaS/Hosted Platforms](#-saashosted-platforms) or [Open-Source GitHub Projects](#-open-source-github-projects) section.
    - For SaaS tools: include company valuation/revenue, concise description, specific entry-level pricing, and exact free tier/trial terms.
-   - For open-source tools: include the official GitHub star badge linking to `/stargazers`, focus area, and architectural summary.
+   - For open-source tools: include the official GitHub Stars_Badge linking to `/stargazers`, focus area, and architectural summary.
 3. 🚀 Submit a Pull Request with a clear description of the project.
 
 ---
